@@ -445,4 +445,10 @@ section{
     .container .social{
         display: none;
     }
+    .navbar-menu {
+        min-width: 250px;   
+    }
+    .sub-menu {
+        width: 200px;
+    }
 }
