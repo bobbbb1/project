@@ -1,0 +1,11 @@
+.navbar-menu {
+    position: fixed;
+    padding: 30px 50px;
+    min-width: 350px;
+    height: 100vh;
+    top: 0;
+    right: 0;
+    display: block;
+    overflow-y: auto;
+    background-color: #30bbd2;
+}
